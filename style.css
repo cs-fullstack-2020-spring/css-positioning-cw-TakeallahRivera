@@ -1,0 +1,60 @@
+
+body{
+    font-family: sans-serif;
+    font-weight: 5300;
+    text-align: center;
+    
+}
+
+h1{ 
+   color: purple;
+   
+}
+
+#div1{
+    border: purple solid 5px;
+}
+
+#div2{
+    border: purple solid 5px;
+
+}
+
+#div3{
+    border: green solid 5px;
+    position: relative;
+    float: left;
+    
+
+}
+
+#div4{
+    border: purple solid 5px;
+  
+
+}
+
+#div5{
+    border: teal solid 5px;
+    float: left;
+
+
+}
+
+#div6{
+    border: purple solid 5px;
+ 
+
+}
+
+#div7{
+    border: red solid 5px;
+    float: left;
+
+}
+
+
+
+
+
+
