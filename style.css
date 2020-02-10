@@ -1,4 +1,4 @@
-
+/* all borders should be different colors and all text should be black except for div1 */
 body{
     font-family: sans-serif;
     font-weight: 300;
@@ -19,7 +19,7 @@ h1{
     border: purple solid 5px;
 
 }
-
+/* set the width of ALL divs */
 #div3{
     border: green solid 5px;
     position: relative;
